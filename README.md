@@ -1,2 +1,2 @@
 # JuiceOS
-Basit işletim sistemi.
+Basit işletim sistemi.JuiceOS terminal arayüzlü bir işletim sistemidir.
