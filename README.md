@@ -1,0 +1,2 @@
+# JuiceOS
+Basit işletim sistemi.
